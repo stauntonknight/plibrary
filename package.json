@@ -1,0 +1,32 @@
+{
+  "name": "personal_library",
+  "version": "1.0.0",
+  "description": "Personal library",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-contrib-uglify": "^0.8.0",
+    "grunt-contrib-stylus": "^0.20.0",
+    "grunt-bower-concat": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:stauntonknight/plibrary.git"
+  },
+  "keywords": [
+    "personal",
+    "library"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stauntonknight/plibrary/issues"
+  },
+  "homepage": "https://github.com/stauntonknight/plibrary"
+}
